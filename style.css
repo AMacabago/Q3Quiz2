@@ -1,0 +1,30 @@
+body {
+	background-color: #A3D1C6;
+}
+
+.ticket-center {
+	background-color: #3F4F44;
+}
+
+.title {
+	background-color: #F0A04B;
+	text-align: center;
+}
+h1 {
+	font-family: "Atkinson Hyperlegible Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  outline: 5px dotted black;
+}
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.info {
+	background-color: #F0A04B;
+}
+.footer {
+	text-align: center;
+}
